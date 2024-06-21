@@ -1,6 +1,6 @@
 # demo
 this is a demo file
-#student 
+# student 
 praveen singh
-#age
+# age
 22
